@@ -12,4 +12,6 @@ from the U.S. Geological Survey (USGS) organization.
 - Using progress bar and listview empty for better UX
 
 # Screenshots
-(Screenshots/ss1.jpg)
+![SS1](Screenshots/ss1.png)
+![SS2](Screenshots/ss2.png)
+![SS3](Screenshots/ss3.png)
