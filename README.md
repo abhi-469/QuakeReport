@@ -12,6 +12,7 @@ from the U.S. Geological Survey (USGS) organization.
 - Using progress bar and listview empty for better UX
 
 # Screenshots
-![SS1](Screenshots/ss1.png)
-![SS2](Screenshots/ss2.png)
-![SS3](Screenshots/ss3.png)
+<img src="https://github.com/abhi-469/QuakeReport/blob/e017fb2ebe539ddff134d37510ceba4207877b55/Screenshots/ss1.png" width="400" height="600">
+<img src="https://github.com/abhi-469/QuakeReport/blob/e017fb2ebe539ddff134d37510ceba4207877b55/Screenshots/ss2.png" width="400" height="600">
+<img src="https://github.com/abhi-469/QuakeReport/blob/e017fb2ebe539ddff134d37510ceba4207877b55/Screenshots/ss3.png" width="400" height="600">
+
